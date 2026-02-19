@@ -1,6 +1,6 @@
 # 📊 Data Jobs Dashboard (Power BI)
 
-![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](Images/dashboard-overview.png.png)
 
 ## 📌 Project Overview
 
