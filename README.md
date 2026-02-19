@@ -41,6 +41,15 @@ Data/data_jobs_2024.csv
 
 ---
 
+## 🎯 Key Insights
+
+- 339K+ total job postings
+- $115K average yearly salary
+- Data Engineers are most in-demand
+- North America leads in job concentration
+
+---
+
 ## 📎 Files
 
 - Data_Jobs_Dashboard.pbix
